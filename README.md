@@ -1,7 +1,7 @@
 # Introduction to Python — Week 1 Assignment
 **Due:** Next weekly class
 
-Submit a separate `.py` file for each question (e.g., `Q1.py`, `Q2.py`, …).
+The files `Q1.py`, `Q2.py`, … `Q8.py` are already created in this repository. Open each file, write your solution where it says `# --- YOUR CODE HERE ---`, and commit your changes.
 
 ---
 
